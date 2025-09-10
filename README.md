@@ -62,7 +62,11 @@ Includes:
 
 📌 Screenshots:  
 ![Sales Dashboard 1](im1.png)  
+
+---
 ![Sales Dashboard 2](im2.png)  
+
+---
 ![Sales Dashboard 2](im3.png) 
 
 ---
