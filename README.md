@@ -93,7 +93,9 @@ This project was built entirely in Tableau:
 1. **Data Import** → Load sales dataset into Tableau.  
 2. **Data Preparation** → Apply cleaning, calculated fields, and hierarchies.  
 3. **Visualization** → Build dashboards with interactive filters, collapsible containers, and floating layouts.  
-4. **User Interaction** → Enable drill-down, hover tooltips, and category/region filtering.  
+4. **User Interaction** → Enable drill-down, hover tooltips, and category/region filtering.
+
+![architecture](architecture.png)   
 
 ---
 
